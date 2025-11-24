@@ -1,9 +1,9 @@
 # NHANES Depression ML Reproduction
 
 This repository aims to reproduce the results of
-"Prediction of depressive disorder using
+** "Prediction of depressive disorder using
 machine learning approaches: findings
-from the NHANES" and explore further possible work.
+from the NHANES"**  and explore further possible work.
 
 
 
