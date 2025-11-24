@@ -1,0 +1,22 @@
+# Python
+_pycache__/
+*.pyc
+
+# venv
+.venv/
+venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# data and models
+data/raw/
+data/processed/
+models/
+outputs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
