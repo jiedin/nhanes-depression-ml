@@ -10,8 +10,8 @@ venv
 .ipynb_checkpoints/
 
 # data and models
-data/raw/
-data/processed/
+data/data_raw/
+data/data_processed/
 models/
 outputs/
 
